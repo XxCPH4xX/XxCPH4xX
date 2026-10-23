@@ -2,10 +2,13 @@
   <h1>Fahim Shahrier</h1>
   <p><strong>Machine Learning &amp; AI Engineer · Computer Vision · Python</strong></p>
   <p>Building practical machine learning systems and applications that connect model development, evaluation, and usable software.</p>
+
   <p>
-    <a href="https://github.com/XxCPH4xX"><img src="https://img.shields.io/badge/GitHub-XxCPH4xX-181717?style=flat-square&logo=github" alt="GitHub profile"></a>
-    <img src="https://img.shields.io/badge/Primary%20Language-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-    <img src="https://img.shields.io/badge/Focus-Machine%20Learning-2F6F9F?style=flat-square" alt="Machine Learning">
+    <a href="https://github.com/XxCPH4xX">
+      <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile">
+    </a>
+    <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+    <img src="https://img.shields.io/badge/MACHINE_LEARNING-2F6F9F?style=for-the-badge" alt="Machine Learning">
   </p>
 </div>
 
@@ -25,6 +28,8 @@ An end-to-end equipment-risk analysis platform built around a machine learning p
 - Jupyter workflows for data auditing, preprocessing, model comparison, evaluation, and explainability.
 - FastAPI inference services and a Next.js dashboard for individual predictions, batch CSV analysis, fleet views, and simulated telemetry.
 
+**Stack:**
+
 <img height="20" src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"> <img height="20" src="https://img.shields.io/badge/XGBOOST-337AB7?style=for-the-badge&logo=python&logoColor=white" alt="XGBoost"> <img height="20" src="https://img.shields.io/badge/SHAP-6A5ACD?style=for-the-badge&logo=python&logoColor=white" alt="SHAP"> <img height="20" src="https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"> <img height="20" src="https://img.shields.io/badge/JUPYTER-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"> <img height="20" src="https://img.shields.io/badge/FASTAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"> <img height="20" src="https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"> <img height="20" src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
 
 ### 2. [Chest X-ray Pneumonia Classification](https://github.com/XxCPH4xX/Chest-X-ray-Pneumonia-Classification)
@@ -34,6 +39,8 @@ A CPU-focused image-classification project that distinguishes NORMAL and PNEUMON
 - ResNet18-based classification using PyTorch and Torchvision.
 - Grad-CAM visualizations and documented evaluation on a held-out test set.
 - FastAPI backend and Next.js dashboard, supported by separate training and evaluation notebooks.
+
+**Stack:**
 
 <img height="20" src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"> <img height="20" src="https://img.shields.io/badge/PYTORCH-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"> <img height="20" src="https://img.shields.io/badge/TORCHVISION-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="Torchvision"> <img height="20" src="https://img.shields.io/badge/GRAD--CAM-6A5ACD?style=for-the-badge" alt="Grad-CAM"> <img height="20" src="https://img.shields.io/badge/FASTAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"> <img height="20" src="https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"> <img height="20" src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
 
@@ -47,6 +54,8 @@ A CNN-based image-classification application for identifying plant leaf conditio
 - Training visualizations, a confusion matrix, and classification-report workflows.
 - Streamlit interface for image upload and prediction.
 
+**Stack:**
+
 <img height="20" src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"> <img height="20" src="https://img.shields.io/badge/TENSORFLOW-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"> <img height="20" src="https://img.shields.io/badge/KERAS-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"> <img height="20" src="https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"> <img height="20" src="https://img.shields.io/badge/SCIKIT--LEARN-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn"> <img height="20" src="https://img.shields.io/badge/STREAMLIT-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit">
 
 ### 4. [HandSign Detection](https://github.com/XxCPH4xX/HandSign-Detection)
@@ -57,6 +66,8 @@ A real-time webcam project that detects and classifies a limited set of hand sig
 - TensorFlow/Keras classification using collected image samples.
 - Live webcam inference with predicted labels displayed on screen.
 
+**Stack:**
+
 <img height="20" src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"> <img height="20" src="https://img.shields.io/badge/OPENCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"> <img height="20" src="https://img.shields.io/badge/MEDIAPIPE-0097A7?style=for-the-badge" alt="MediaPipe"> <img height="20" src="https://img.shields.io/badge/TENSORFLOW-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"> <img height="20" src="https://img.shields.io/badge/KERAS-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"> <img height="20" src="https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
 
 ### 5. [Smart Attendance System Using Face Recognition](https://github.com/XxCPH4xX/smart-attendance-system-using-face-recognition)
@@ -66,6 +77,8 @@ A webcam-based attendance application that identifies registered faces and recor
 - Face detection and matching against registered face images.
 - Attendance records stored in CSV format.
 - Visual recognition feedback and handling for unknown faces.
+
+**Stack:**
 
 <img height="20" src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"> <img height="20" src="https://img.shields.io/badge/OPENCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"> <img height="20" src="https://img.shields.io/badge/FACE_RECOGNITION-4169E1?style=for-the-badge&logo=python&logoColor=white" alt="Face Recognition"> <img height="20" src="https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
 
@@ -107,6 +120,8 @@ These projects demonstrate complementary experience in application architecture,
 
 ![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLITE-003B57?style=for-the-badge&logo=sqlite&logoColor=white) ![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white) ![Linux](https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![VS_Code](https://img.shields.io/badge/VS_CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
+---
+
 ## GitHub Statistics
 
 <div align="center">
@@ -115,19 +130,16 @@ These projects demonstrate complementary experience in application architecture,
 </div>
 
 ---
----
 
 ## Connect
 
 <div align="center">
-
   <p><strong>Focused on machine learning, computer vision, and practical AI engineering.</strong></p>
 
   <a href="https://github.com/XxCPH4xX">
     <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile">
   </a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/">
+  <a href="https://www.linkedin.com/in/fahim-shahrier-joty/">
     <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile">
   </a>
-
 </div>
