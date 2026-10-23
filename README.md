@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Fahim Shahrier</h1>
-  <p><strong>Machine Learning &amp; AI · Computer Vision · Python</strong></p>
+  <p><strong>Machine Learning &amp; AI Engineer · Computer Vision · Python</strong></p>
   <p>Building practical machine learning systems and applications that connect model development, evaluation, and usable software.</p>
   <p>
     <a href="https://github.com/XxCPH4xX"><img src="https://img.shields.io/badge/GitHub-XxCPH4xX-181717?style=flat-square&logo=github" alt="GitHub profile"></a>
@@ -124,18 +124,24 @@ A webcam-based attendance application that identifies registered faces and recor
 
 ---
 
+## Connect
+
+<div align="center">
+
+  <p>Open to connecting with developers and professionals working in AI, machine learning, and software engineering.</p>
+
+  <a href="https://github.com/XxCPH4xX">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Profile">
+  </a>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Profile">
+  </a>
+
+</div>
+
+---
+
 <div align="center">
   <p><strong>Focused on machine learning, computer vision, and practical AI engineering.</strong></p>
   <p><a href="https://github.com/XxCPH4xX?tab=repositories">Explore all repositories</a></p>
-</div>
-
-## Contact
-
-<div align="center">
-  <a href="https://github.com/XxCPH4xX">
-    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/">
-    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
 </div>
