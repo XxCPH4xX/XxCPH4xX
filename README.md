@@ -16,7 +16,7 @@ I build machine learning applications and software systems that connect predicti
 
 A predictive maintenance application built around machine learning, model evaluation, explainability, and a web-based monitoring interface.
 
-**Key components:** XGBoost, SHAP, FastAPI, Next.js, TypeScript.
+Technology: Python · XGBoost · SHAP · FastAPI · Next.js · TypeScript
 
 [View Repository](https://github.com/XxCPH4xX/Predictive-Maintenance-AI-Platform)
 
