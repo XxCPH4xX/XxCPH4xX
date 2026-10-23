@@ -163,11 +163,17 @@ A restaurant point-of-sale application covering order handling and supporting op
 
 ## Other Projects
 
-| Project | Focus | Repository |
-|---|---|---|
-| Admission Exam Platform | Web application development | [View Project](https://github.com/XxCPH4xX/admission-exam-platform) |
-| Python Mastery | Python learning and practice | [View Project](https://github.com/XxCPH4xX/Python-Mastery) |
+## Other Projects
 
+| **Project** | **Description** | **Repository** |
+|---|---|---|
+| Plant Disease Detection | Deep learning project focused on identifying plant diseases from images. | [View project](https://github.com/XxCPH4xX/plant-disease-detection-using-deep-learning) |
+| Face Recognition Attendance | Attendance management system using face-recognition techniques. | [View project](https://github.com/XxCPH4xX/smart-attendance-system-using-face-recognition) |
+| HandSign Detection | Computer vision project focused on hand-sign detection. | [View project](https://github.com/XxCPH4xX/HandSign-Detection) |
+| Admission Exam Platform | Web application for managing an online admission examination workflow. | [View project](https://github.com/XxCPH4xX/admission-exam-platform) |
+| Python-Mastery | Structured repository for Python practice, programming fundamentals, and continued learning. | [View project](https://github.com/XxCPH4xX/Python-Mastery) |
+
+[**Browse all repositories →**](https://github.com/XxCPH4xX?tab=repositories)
 ## Technical Skills
 
 ### AI & Machine Learning
