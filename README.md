@@ -136,13 +136,21 @@ A full-stack point-of-sale system for managing restaurant operations through a c
 
 ## GitHub Statistics
 
+## GitHub Statistics
+
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=XxCPH4xX&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XxCPH4xX&layout=compact&hide_border=true&langs_count=8&theme=transparent" alt="Most used languages" />
+  <a href="https://github.com/XxCPH4xX">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=XxCPH4xX&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="Fahim's GitHub statistics" />
+  </a>
+  <a href="https://github.com/XxCPH4xX">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XxCPH4xX&layout=compact&hide_border=true&langs_count=8&theme=transparent" alt="Most used programming languages" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=XxCPH4xX&hide_border=true&theme=transparent" alt="GitHub contribution streak" />
+  <a href="https://github.com/XxCPH4xX">
+    <img src="https://img.shields.io/badge/GitHub-XxCPH4xX-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
+  </a>
 </p>
 
 
