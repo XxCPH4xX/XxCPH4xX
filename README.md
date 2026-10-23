@@ -136,8 +136,6 @@ A full-stack point-of-sale system for managing restaurant operations through a c
 
 ## GitHub Statistics
 
-## GitHub Statistics
-
 <p align="center">
   <a href="https://github.com/XxCPH4xX">
     <img height="180" src="https://github-readme-stats.vercel.app/api?username=XxCPH4xX&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="Fahim's GitHub statistics" />
