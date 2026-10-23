@@ -12,8 +12,6 @@
   </p>
 </div>
 
----
-
 ## About Me
 
 I am a Software Engineering graduate from Zhengzhou University focused on applied machine learning, deep learning, and computer vision. My work spans data preparation, model training and evaluation, explainable AI, and integrating model-driven functionality into applications and APIs. I also build full-stack software to support practical workflows around these systems.
@@ -82,8 +80,6 @@ A webcam-based attendance application that identifies registered faces and recor
 
 <img height="20" src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"> <img height="20" src="https://img.shields.io/badge/OPENCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"> <img height="20" src="https://img.shields.io/badge/FACE_RECOGNITION-4169E1?style=for-the-badge&logo=python&logoColor=white" alt="Face Recognition"> <img height="20" src="https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
 
----
-
 ## Other Software Engineering Projects
 
 These projects demonstrate complementary experience in application architecture, backend development, database-backed workflows, and user interface engineering.
@@ -95,8 +91,6 @@ These projects demonstrate complementary experience in application architecture,
 | **Customer Feedback Dashboard** | Feedback collection and rating dashboard with PostgreSQL persistence, Chart.js visualizations, and keyword-based sentiment classification. | [View project](https://github.com/XxCPH4xX/Customer-Feedback-Dashboard) |
 
 [**Browse all repositories →**](https://github.com/XxCPH4xX?tab=repositories)
-
----
 
 ## Technical Stack
 
@@ -120,16 +114,12 @@ These projects demonstrate complementary experience in application architecture,
 
 ![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLITE-003B57?style=for-the-badge&logo=sqlite&logoColor=white) ![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white) ![Linux](https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![VS_Code](https://img.shields.io/badge/VS_CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
----
-
 ## GitHub Statistics
 
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=XxCPH4xX&show_icons=true&rank_icon=github&hide_border=true&theme=transparent" alt="GitHub statistics for Fahim Shahrier">
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XxCPH4xX&layout=compact&langs_count=6&hide_border=true&theme=transparent" alt="Most used programming languages">
 </div>
-
----
 
 ## Connect
 
