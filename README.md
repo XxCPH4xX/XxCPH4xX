@@ -1,231 +1,81 @@
-# Fahim Shahrier
-
-### AI / Machine Learning Engineer | Python Developer | Full-Stack Engineer
-
-I build AI-driven applications and practical software systems, with a focus on machine learning, predictive analytics, computer vision, and Python-based development. My projects combine model development and evaluation with backend APIs and web interfaces to turn technical ideas into usable applications.
-
-
-
-
-\
-
-
----
-
-## About Me
-
-I am a Software Engineering graduate from Zhengzhou University, interested in developing machine learning solutions and engineering complete applications around them.
-
-My primary interests include:
-
-- **Machine Learning:** predictive modeling, classification, model evaluation, and explainability.
-- **Artificial Intelligence:** developing practical AI-powered applications and exploring data-driven approaches to real-world problems.
-- **Computer Vision:** image classification, object and hand-sign detection, and face-recognition-based systems.
-- **AI Engineering:** integrating models into backend services, APIs, and web applications.
-- **Software Engineering:** building maintainable applications with clear architecture, useful functionality, and reliable workflows.
-
-I enjoy working across the development lifecycle, from data preparation and experimentation to API integration and application development.
-
-## Featured Projects
-
-My projects below are ordered by engineering scope, technical depth, and relevance to my AI and software engineering interests.
-
-### 1. Predictive Maintenance AI Platform
-
-**Machine Learning · Predictive Analytics · Model Explainability**
-
-An end-to-end predictive maintenance platform focused on analyzing equipment data and estimating failure risk. The project combines machine learning workflows with an API backend and a web interface for exploring predictions and analysis results.
-
-**Key features**
-
-- XGBoost-based equipment failure-risk prediction.
-- SHAP-based explanations to help interpret model predictions.
-- Jupyter notebook workflows for machine learning experimentation.
-- FastAPI backend for model-powered application functionality.
-- Batch CSV analysis and simulated telemetry workflows.
-- Web interface for presenting analysis results.
-
-**Technology stack**
-
-`Python` `XGBoost` `SHAP` `Pandas` `Jupyter` `FastAPI` `Next.js` `TypeScript`
-
-
-
----
-
-### 2. Plant Disease Detection Using Deep Learning
-
-**Deep Learning · Image Classification · Computer Vision**
-
-A computer vision project focused on applying deep learning techniques to plant disease identification from images.
-
-**Technical focus**
-
-- Image-based plant disease classification.
-- Deep learning model development.
-- Image data preparation and preprocessing.
-- Model training and evaluation workflows.
-
-**Technology stack**
-
-`Python` `Deep Learning` `Computer Vision`
-
-
-
----
-
-### 3. Smart Attendance System Using Face Recognition
-
-**Computer Vision · Facial Recognition · Automation**
-
-A face-recognition-based attendance project designed to explore automated identification and attendance-recording workflows.
-
-**Technical focus**
-
-- Face-recognition-based identification.
-- Image processing and computer vision.
-- Attendance workflow automation.
-- Integration of recognition functionality into an application.
-
-**Technology stack**
-
-`Python` `Computer Vision` `Face Recognition`
-
-
-
----
-
-### 4. HandSign Detection
-
-**Computer Vision · Hand-Sign Detection**
-
-A computer vision project exploring the detection of hand signs through image-based recognition techniques.
-
-**Technical focus**
-
-- Hand-sign detection.
-- Visual data processing.
-- Computer vision experimentation.
-
-**Technology stack**
-
-`Python` `Computer Vision`
-
-
-
----
-
-### 5. PharmacyPOS
-
-**Full-Stack Engineering · Business Software · Inventory Management**
-
-A pharmacy management and point-of-sale platform designed to support pharmacy operations through a web-based interface.
-
-**Key features**
-
-- Point-of-sale and sales processing workflows.
-- Medicine inventory management.
-- Batch and expiry-date tracking.
-- Billing, invoicing, and VAT-related workflows.
-- Medicine import and inventory operations.
-- Offline cash-sale recovery support.
-
-**Technology stack**
-
-`Python` `Django` `Next.js` `TypeScript` `PostgreSQL`
-
-
-
----
-
-### 6. Restaurant POS
-
-**Full-Stack Development · Point of Sale · Business Operations**
-
-A restaurant point-of-sale application covering order handling and supporting operational workflows.
-
-**Key features**
-
-- Order and table management.
-- Billing and payment workflows.
-- Inventory management.
-- Customer and supplier records.
-- Expense tracking.
-
-**Technology stack**
-
-`TypeScript` `Next.js` `Django REST Framework`
-
-\
-
-
----
-
-## Other Projects
-
-| Project                 | Focus                        | Repository                                                          |
-| ----------------------- | ---------------------------- | ------------------------------------------------------------------- |
-| Admission Exam Platform | Web application development  | [View Project](https://github.com/XxCPH4xX/admission-exam-platform) |
-| Python Mastery          | Python learning and practice | [View Project](https://github.com/XxCPH4xX/Python-Mastery)          |
-
-## Technical Skills
-
-### AI & Machine Learning
-
-
-
-
-\
-
-
-Areas of interest: predictive modeling, classification, model evaluation, explainable AI, deep learning, and computer vision.
-
-### Programming Languages
-
-
-
-\
-
-
-### Backend & API Development
-
-
-\
-
-
-### Frontend Development
-
-
-\
-
-
-### Tools & Development Environment
-
-
-
-
-\
-
-
-## GitHub Statistics
-
-\<p align="center">
-&#x20; \<a href="[https://github.com/XxCPH4xX](https://github.com/XxCPH4xX)">
-&#x20;   \<img height="180" src="[https://github-readme-stats.vercel.app/api?username=XxCPH4xX&show_icons=true&rank_icon=github&hide_border=true&theme=transparent](https://github-readme-stats.vercel.app/api?username=XxCPH4xX\&show_icons=true\&rank_icon=github\&hide_border=true\&theme=transparent)" alt="Fahim's GitHub statistics" />
-&#x20; \</a>
-&#x20; \<a href="[https://github.com/XxCPH4xX](https://github.com/XxCPH4xX)">
-&#x20;   \<img height="180" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=XxCPH4xX&layout=compact&langs_count=8&hide_border=true&theme=transparent](https://github-readme-stats.vercel.app/api/top-langs/?username=XxCPH4xX\&layout=compact\&langs_count=8\&hide_border=true\&theme=transparent)" alt="Most used programming languages" />
-&#x20; \</a>
-\</p>
-
-\<p align="center">
-&#x20; \<a href="[https://github.com/XxCPH4xX](https://github.com/XxCPH4xX)">
-&#x20;   \<img src="[https://img.shields.io/badge/GitHub-XxCPH4xX-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-XxCPH4xX-181717?style=for-the-badge\&logo=github\&logoColor=white)" alt="Visit my GitHub profile" />
-&#x20; \</a>
-\</p>
-
----
-
-\<p align="center">
-&#x20; \<i>Focused on machine learning, practical AI systems, and engineering software that solves real problems.\</i>
-\</p>
+<div align="center">
+  <h1>Fahim Shahrier</h1>
+  <p><strong>Machine Learning &amp; AI · Computer Vision · Python</strong></p>
+  <p>Building practical machine learning systems and applications that connect model development, evaluation, and usable software.</p>
+  <p>
+    <a href="https://github.com/XxCPH4xX"><img src="https://img.shields.io/badge/GitHub-XxCPH4xX-181717?style=flat-square&logo=github" alt="GitHub profile"></a>
+    <img src="https://img.shields.io/badge/Primary%20Language-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+    <img src="https://img.shields.io/badge/Focus-Machine%20Learning-2F6F9F?style=flat-square" alt="Machine Learning">
+  </p>
+</div>
+
+About Me
+I am a Software Engineering graduate from Zhengzhou University focused on applied machine learning, deep learning, and computer vision. My work spans data preparation, model training and evaluation, explainable AI, and integrating model-driven functionality into applications and APIs. I also build full-stack software to support practical workflows around these systems.
+Featured AI & Machine Learning Projects
+1. Predictive Maintenance AI Platform
+An end-to-end equipment-risk analysis platform built around a machine learning pipeline, with model explanations and an interactive dashboard.
+- XGBoost-based failure-risk prediction with SHAP explanations.
+- Jupyter workflows for data auditing, preprocessing, model comparison, evaluation, and explainability.
+- FastAPI inference services and a Next.js dashboard for individual predictions, batch CSV analysis, fleet views, and simulated telemetry.
+Stack: Python XGBoost SHAP Pandas Jupyter FastAPI Next.js TypeScript
+2. Chest X-ray Pneumonia Classification
+A CPU-focused image-classification project that distinguishes NORMAL and PNEUMONIA chest X-rays and provides visual explanations of model attention.
+- ResNet18-based classification using PyTorch and Torchvision.
+- Grad-CAM visualizations and documented evaluation on a held-out test set.
+- FastAPI backend and Next.js dashboard, supported by separate training and evaluation notebooks.
+Stack: Python PyTorch Torchvision Grad-CAM FastAPI Next.js TypeScript
+
+Educational and research project only; results are not evidence of clinical effectiveness and must not be used for patient care.
+3. Plant Disease Detection Using Deep Learning
+A CNN-based image-classification application for identifying plant leaf conditions across 38 disease and healthy-leaf classes covering 14 plant species.
+- Image preprocessing and model training with TensorFlow/Keras.
+- Training visualizations, a confusion matrix, and classification-report workflows.
+- Streamlit interface for image upload and prediction.
+Stack: Python TensorFlow Keras NumPy scikit-learn Streamlit
+4. HandSign Detection
+A real-time webcam project that detects and classifies a limited set of hand signs representing the ASL letters I, L, O, V, E, and U.
+- Hand-region detection and preprocessing with OpenCV and MediaPipe-based tooling.
+- TensorFlow/Keras classification using collected image samples.
+- Live webcam inference with predicted labels displayed on screen.
+Stack: Python OpenCV MediaPipe/cvzone TensorFlow Keras NumPy
+5. Smart Attendance System Using Face Recognition
+A webcam-based attendance application that identifies registered faces and records recognized individuals with timestamps.
+- Face detection and matching against registered face images.
+- Attendance records stored in CSV format.
+- Visual recognition feedback and handling for unknown faces.
+Stack: Python OpenCV face_recognition NumPy
+Other Software Engineering Projects
+Project	Description	Repository
+PharmacyPOS	Pharmacy ERP/POS workflows for medicine inventory, batches and expiry tracking, checkout, invoicing, and branch operations.	View repository
+Restaurant POS (EzPOS)	Restaurant operations covering orders, table service, inventory, payments, reservations, and reporting.	View repository
+Customer Feedback Dashboard	Dashboard project for reviewing customer feedback; see the repository for its documented functionality and implementation.	View repository
+
+
+Technical Stack
+Machine Learning & Data Science
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn"> <img src="https://img.shields.io/badge/XGBoost-337AB7?style=flat-square" alt="XGBoost"> <img src="https://img.shields.io/badge/SHAP-6A5ACD?style=flat-square" alt="SHAP"> <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter">
+
+Deep Learning & Computer Vision
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow"> <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" alt="Keras"> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV"> <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square" alt="MediaPipe">
+
+Programming Languages
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL">
+
+Backend & APIs
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"> <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django"> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
+
+Frontend Development
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"> <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
+
+Developer Tools & Environment
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"> <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code">
+GitHub Statistics
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=XxCPH4xX&show_icons=true&rank_icon=github&hide_border=true&theme=transparent" alt="GitHub statistics for Fahim Shahrier">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XxCPH4xX&layout=compact&langs_count=6&hide_border=true&theme=transparent" alt="Most used programming languages">
+</div>
+
+<div align="center">
+  <p><strong>Focused on machine learning, computer vision, and practical AI engineering.</strong></p>
+  <p><a href="https://github.com/XxCPH4xX?tab=repositories">Explore all repositories</a></p>
+</div>
