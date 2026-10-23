@@ -163,8 +163,6 @@ A restaurant point-of-sale application covering order handling and supporting op
 
 ## Other Projects
 
-## Other Projects
-
 | **Project** | **Description** | **Repository** |
 |---|---|---|
 | Plant Disease Detection | Deep learning project focused on identifying plant diseases from images. | [View project](https://github.com/XxCPH4xX/plant-disease-detection-using-deep-learning) |
