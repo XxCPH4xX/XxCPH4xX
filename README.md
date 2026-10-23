@@ -1,6 +1,6 @@
 # Fahim Shahrier
 
-**Software Engineering Graduate | Machine Learning & AI | Computer Vision | Python Development**
+**Machine Learning & AI | Computer Vision | Python Development**
 
 I’m a Software Engineering graduate from Zhengzhou University focused on building applied machine learning and computer vision projects in Python. My work spans data preparation, model training and evaluation, prediction explainability, and integrating inference workflows with APIs and web interfaces. I also develop full-stack applications that support practical business and operational workflows.
 
