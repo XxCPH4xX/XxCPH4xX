@@ -1,168 +1,86 @@
-# Fahim Shahrier
+# Hi there, I'm Fahim Shahrier 👋
 
-**Machine Learning & AI | Computer Vision | Python Development**
-
-I’m a Software Engineering graduate from Zhengzhou University focused on building applied machine learning and computer vision projects in Python. My work spans data preparation, model training and evaluation, prediction explainability, and integrating inference workflows with APIs and web interfaces. I also develop full-stack applications that support practical business and operational workflows.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-1F425F?style=flat-square)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Computer Vision](https://img.shields.io/badge/Computer_Vision-2D6A73?style=flat-square)
-
-**Core focus:** Predictive modeling · Deep learning · Computer vision · Explainable AI · ML-backed APIs and dashboards
+### Software Engineering Graduate | Machine Learning, AI & Computer Vision Engineer
 
 ---
 
-## Featured ML & Computer Vision Projects
+## 🧭 About Me
 
-These projects demonstrate different parts of the applied AI workflow, from dataset preparation and model evaluation to visual explanations and application integration.
+I am a Software Engineering graduate with a professional focus on applied Machine Learning, Deep Learning, and Computer Vision. I build end-to-end AI-driven applications that bridge raw data and functional software—ranging from exploratory data analysis and model experimentation to evaluation, post-hoc explainability, and backend API integration. While my primary focus is predictive modeling and computer vision, I complement these capabilities with full-stack software engineering skills to deliver complete, usable applications.
+
+---
+
+## 🎯 Core Areas of Focus
+
+* **Machine Learning & Predictive Analytics:** Supervised learning, tree-based models (XGBoost), feature engineering, hyperparameter tuning, model evaluation, and model explainability (SHAP).
+* **Deep Learning & Computer Vision:** Convolutional Neural Networks (CNNs), image classification, transfer learning (PyTorch, TensorFlow/Keras), visual interpretability (Grad-CAM), and real-time inference (OpenCV, MediaPipe).
+* **Applied AI Engineering:** Integrating trained models into lightweight backend APIs (FastAPI) and interactive user interfaces (Streamlit, Next.js, React).
+* **Full-Stack Software Engineering:** Designing robust backend services, database integrations, and operational software tools (POS systems, analytics dashboards) to support data-centric workflows.
+
+---
+
+## 🚀 Featured ML & AI Projects
 
 ### 1. [Predictive Maintenance AI Platform](https://github.com/XxCPH4xX/Predictive-Maintenance-AI-Platform)
-
-An end-to-end predictive maintenance workspace built around the UCI AI4I 2020 synthetic dataset. It combines equipment failure-risk prediction, model evaluation, explainability, and an interactive dashboard.
-
-**Technical highlights**
-- Compares Logistic Regression and Random Forest baselines with XGBoost, using separate training, validation, and held-out test partitions.
-- Implements SHAP-based global and individual prediction explanations.
-- Integrates a FastAPI backend with a Next.js and TypeScript dashboard for single predictions, batch CSV analysis, simulated telemetry, what-if scenarios, and prediction history.
-- Includes Jupyter notebooks for exploratory analysis, preprocessing, model selection, evaluation, and reproducible experimentation.
-
-**Reported held-out test results:** Precision 40.56% · Recall 85.29% · ROC-AUC 0.9806 · Average precision 0.7706
-
-These results apply to the project's dataset, not to real-world industrial equipment. The selected operating threshold produces false alarms, and the model has not been validated as an industrial failure-warning system.
-
-**Technologies:** Python, Pandas, scikit-learn, XGBoost, SHAP, Jupyter, FastAPI, Next.js, TypeScript
-
-[Repository](https://github.com/XxCPH4xX/Predictive-Maintenance-AI-Platform) · [Model card](https://github.com/XxCPH4xX/Predictive-Maintenance-AI-Platform/blob/main/reports/model_card.md)
+An end-to-end machine learning platform designed to predict equipment failure risks and support proactive maintenance workflows.
+* **Core Workflow:** Implements data preprocessing, feature engineering, and rigorous model evaluation pipelines in Jupyter notebooks using XGBoost.
+* **Explainability:** Integrates SHAP (SHapley Additive exPlanations) to interpret model predictions and highlight key risk factors driving equipment failure.
+* **Application Integration:** Exposes the trained model via a FastAPI backend paired with a web dashboard for interactive risk assessment.
+* **Tech Stack:** Python, XGBoost, scikit-learn, SHAP, FastAPI, Pandas, NumPy, Jupyter
 
 ### 2. [Chest X-ray Pneumonia Classification](https://github.com/XxCPH4xX/Chest-X-ray-Pneumonia-Classification)
-
-An educational and research project that classifies chest X-ray images into NORMAL and PNEUMONIA categories using a ResNet18-based deep learning workflow.
-
-**Technical highlights**
-- Uses PyTorch and Torchvision to train, evaluate, and export an image classification model.
-- Implements Grad-CAM visualizations to inspect regions influencing model predictions.
-- Connects model inference to a FastAPI backend and a Next.js dashboard.
-- Organizes experimentation into notebooks covering dataset checks, preprocessing, model development, evaluation, and inference.
-
-**Reported held-out test results:** Accuracy 87.66% · Sensitivity 96.15% · Specificity 73.50% · ROC-AUC 94.49%
-
-These are dataset-level results, not evidence of clinical effectiveness. The repository documents limitations involving potential patient overlap and domain shift. The model is not clinically validated, and its predictions must not be used for patient care.
-
-**Technologies:** Python, PyTorch, Torchvision, Grad-CAM, Jupyter, FastAPI, Next.js, TypeScript
-
-[Repository](https://github.com/XxCPH4xX/Chest-X-ray-Pneumonia-Classification)
+An educational and research deep learning project for classifying chest radiograph images to detect pneumonia patterns. *(Note: Developed for academic research exploration; not validated for clinical diagnosis or patient care.)*
+* **Model Architecture:** Utilizes a PyTorch-based ResNet18 convolutional neural network trained on normalized medical imaging data.
+* **Visual Explanations:** Implements Grad-CAM to generate visual attention heatmaps, illustrating regions of the image influencing model decisions.
+* **Full-Stack Interface:** Connected to a FastAPI backend service and a modern Next.js frontend dashboard for image upload and inference visualization.
+* **Tech Stack:** PyTorch, ResNet18, Grad-CAM, Python, FastAPI, Next.js, TypeScript
 
 ### 3. [Plant Disease Detection Using Deep Learning](https://github.com/XxCPH4xX/plant-disease-detection-using-deep-learning)
-
-A leaf-image classification project that identifies 38 disease and healthy-leaf categories across 14 plant species through a convolutional neural network.
-
-**Technical highlights**
-- Implements a CNN with 10 convolutional layers using TensorFlow/Keras.
-- Processes RGB leaf images and produces predictions across the supported plant classes.
-- Includes training and evaluation notebooks, training-history visualizations, a confusion matrix, and a classification report.
-- Provides a Streamlit interface for uploading leaf images and viewing predictions.
-
-The project documents evaluation workflows and visualizations; no performance figure is included here because a representative, verified test metric has not been established for this profile.
-
-**Technologies:** Python, TensorFlow, Keras, NumPy, scikit-learn, Matplotlib, Streamlit
-
-[Repository](https://github.com/XxCPH4xX/plant-disease-detection-using-deep-learning)
+A deep learning system built to classify crop leaf diseases from image data to assist in agricultural monitoring.
+* **Architecture & Training:** Implements custom Convolutional Neural Networks (CNNs) using TensorFlow/Keras, supported by structured image preprocessing and data augmentation pipelines.
+* **Evaluation:** Includes comprehensive training and evaluation notebooks detailing loss curves, accuracy metrics, and confusion matrices across verified disease categories.
+* **Interactive Interface:** Features a Streamlit-based web application allowing users to upload leaf images and receive real-time classification results.
+* **Tech Stack:** Python, TensorFlow, Keras, OpenCV, Streamlit, Pandas, NumPy
 
 ### 4. [HandSign Detection](https://github.com/XxCPH4xX/HandSign-Detection)
-
-A real-time webcam-based hand-sign recognition project covering six ASL letter classes: **I, L, O, V, E, and U**.
-
-**Technical highlights**
-- Detects hands from live webcam input and classifies supported hand signs.
-- Uses hand-region cropping, resizing, and normalization before inference.
-- Includes a data-collection workflow for capturing custom training images.
-- Combines MediaPipe-based hand processing with a TensorFlow/Keras classification model.
-
-The implementation recognizes the listed letters; it does not represent a complete sign-language translation system.
-
-**Technologies:** Python, OpenCV, MediaPipe, cvzone, TensorFlow/Keras, NumPy
-
-[Repository](https://github.com/XxCPH4xX/HandSign-Detection)
+A real-time computer vision application capable of detecting and recognizing hand signs via webcam input.
+* **Real-Time Processing:** Utilizes OpenCV and MediaPipe / cvzone for hand landmark extraction and region-of-interest preprocessing.
+* **Recognition Pipeline:** Powered by a TensorFlow/Keras classification model trained on a localized vocabulary of American Sign Language (ASL) letters and gestures.
+* **Scope:** Designed to recognize a specific subset of signs with immediate visual feedback.
+* **Tech Stack:** Python, OpenCV, MediaPipe, TensorFlow, Keras
 
 ### 5. [Smart Attendance System Using Face Recognition](https://github.com/XxCPH4xX/smart-attendance-system-using-face-recognition)
-
-A webcam-based attendance prototype that identifies registered faces and records attendance with timestamps.
-
-**Technical highlights**
-- Processes live webcam frames using OpenCV.
-- Generates and compares face encodings using the `face_recognition` library.
-- Distinguishes recognized faces from unknown individuals.
-- Records attendance in CSV format with timestamps.
-
-**Technologies:** Python, OpenCV, face_recognition, dlib, NumPy
-
-[Repository](https://github.com/XxCPH4xX/smart-attendance-system-using-face-recognition)
+An automated attendance tracking system leveraging computer vision and facial recognition techniques.
+* **Detection & Recognition:** Implements face detection and feature embedding extraction to match live camera feeds against known user profiles.
+* **Automation:** Captures verified recognitions and automatically records timestamped attendance logs to streamline operational workflows.
+* **Tech Stack:** Python, OpenCV, Face Recognition, NumPy
 
 ---
 
-## Other Software Engineering Projects
+## 💻 Other Software Engineering Projects
 
-Alongside ML/AI experimentation, I build web applications that combine backend services, databases, frontend interfaces, and domain-specific business logic.
+Complementary full-stack and application development projects showcasing backend logic, database management, and user interface engineering:
 
-| Project | Overview | Repository |
-|---|---|---|
-| **PharmacyPOS** | Pharmacy operations and POS development pilot covering medicine catalogues, barcode/SKU lookup, batch and expiry tracking, FEFO inventory handling, box/strip/pack conversion, role-based access, and operational records. Built with Next.js, TypeScript, Django REST Framework, and PostgreSQL. | [View repository](https://github.com/XxCPH4xX/PharmacyPOS) |
-| **Restaurant POS (EzPOS)** | Restaurant management and point-of-sale application covering dine-in, takeaway and delivery orders, table management, kitchen tickets, stock tracking, reservations, payments, and reporting. Uses Next.js, React, TypeScript, Django REST Framework, and PostgreSQL. | [View repository](https://github.com/XxCPH4xX/POS) |
-| **Customer Feedback Dashboard** | Feedback collection and ratings dashboard with PostgreSQL persistence, Chart.js visualizations, and keyword-based sentiment classification. Uses an Express backend and JavaScript frontend. | [View repository](https://github.com/XxCPH4xX/Customer-Feedback-Dashboard) |
-
----
-
-## Technical Skills
-
-The following technologies are drawn from my existing profile and project documentation. Their inclusion reflects use across projects, not an assertion of equal proficiency in every tool.
-
-### Machine Learning & AI
-
-`scikit-learn` · `XGBoost` · `SHAP` · Predictive modeling · Classification · Model evaluation · Explainable AI
-
-### Deep Learning & Computer Vision
-
-`PyTorch` · `Torchvision` · `TensorFlow` · `Keras` · `OpenCV` · `MediaPipe` · `cvzone` · `Grad-CAM`
-
-### Data Analysis & Experimentation
-
-`NumPy` · `Pandas` · `Jupyter Notebook` · `Matplotlib` · `Seaborn` · Exploratory data analysis · Data preprocessing · Train/validation/test evaluation
-
-### Programming Languages
-
-`Python` · `TypeScript` · `JavaScript` · `SQL`
-
-### Backend Development & APIs
-
-`FastAPI` · `Django` · `Django REST Framework` · `Express`
-
-### Frontend Development
-
-`Next.js` · `React` · `Tailwind CSS` · `Streamlit`
-
-### Databases, Tools & Development Environments
-
-`PostgreSQL` · `SQLite` · `Git` · `GitHub` · `Linux` · `VS Code`
+| Project | Description | Repository Link |
+| :--- | :--- | :--- |
+| **PharmacyPOS** | Point-of-sale system tailored for pharmacy operations, handling inventory tracking, sales transactions, and daily business workflows. | [View Repo](https://github.com/XxCPH4xX/PharmacyPOS) |
+| **Restaurant POS (EzPOS)** | Full-featured restaurant management and POS application supporting table ordering, payment handling, and inventory oversight. | [View Repo](https://github.com/XxCPH4xX/POS) |
+| **Customer Feedback Dashboard** | Analytical web application designed to collect, aggregate, and visualize customer feedback and sentiment data. | [View Repo](https://github.com/XxCPH4xX/Customer-Feedback-Dashboard) |
 
 ---
 
-## Engineering Approach
+## 🛠️ Technical Skills & Technology Stack
 
-Across my projects, I focus on connecting implementation details with measurable outcomes and usable software:
-
-- **Data and evaluation:** Inspecting datasets, preparing model inputs, separating training and evaluation stages, and reporting measured results with their limitations.
-- **Model interpretation:** Using techniques such as SHAP and Grad-CAM to examine model behavior rather than presenting predictions without context.
-- **Application integration:** Connecting Python-based inference workflows to APIs, dashboards, and practical user interfaces.
-- **Software development:** Applying backend, frontend, and database technologies to build applications around clearly defined workflows.
+| Category | Technologies & Tools |
+| :--- | :--- |
+| **Machine Learning & AI** | Python, scikit-learn, XGBoost, SHAP, Pandas, NumPy |
+| **Deep Learning & Vision** | PyTorch, TensorFlow, Keras, OpenCV, MediaPipe, Grad-CAM |
+| **Backend Development & APIs** | FastAPI, Django, RESTful APIs |
+| **Frontend Development** | Next.js, React, TypeScript, JavaScript, Streamlit, HTML/CSS |
+| **Databases & Tools** | PostgreSQL, Git, Linux, Jupyter Notebooks |
 
 ---
 
-## Explore More
+## 📊 Connect With Me
 
-For source code, implementation details, setup instructions, notebooks, and project-specific documentation, visit the repositories directly.
-
-**[Browse all repositories on GitHub →](https://github.com/XxCPH4xX?tab=repositories)**
-
-**[GitHub Profile](https://github.com/XxCPH4xX)**
+* **GitHub:** [github.com/XxCPH4xX](https://github.com/XxCPH4xX)
