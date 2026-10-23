@@ -107,6 +107,7 @@ A webcam-based attendance application that identifies registered faces and recor
 </div>
 
 ---
+---
 
 ## Connect
 
@@ -115,10 +116,10 @@ A webcam-based attendance application that identifies registered faces and recor
   <p><strong>Focused on machine learning, computer vision, and practical AI engineering.</strong></p>
 
   <a href="https://github.com/XxCPH4xX">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Profile">
+    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile">
   </a>
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Profile">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile">
   </a>
 
 </div>
