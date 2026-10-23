@@ -145,11 +145,6 @@ A full-stack point-of-sale system for managing restaurant operations through a c
   <img src="https://streak-stats.demolab.com?user=XxCPH4xX&hide_border=true&theme=transparent" alt="GitHub contribution streak" />
 </p>
 
-## Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=XxCPH4xX&bg_color=00000000&color=58A6FF&line=3B82F6&point=58A6FF&area=true&hide_border=true" alt="GitHub contribution activity graph" />
-</p>
 
 ## Connect
 
