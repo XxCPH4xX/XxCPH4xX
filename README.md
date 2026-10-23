@@ -1,235 +1,168 @@
 # Fahim Shahrier
 
-### AI / Machine Learning Engineer | Python Developer | Full-Stack Engineer
+**Software Engineering Graduate | Machine Learning & AI | Computer Vision | Python Development**
 
-I build AI-driven applications and practical software systems, with a focus on machine learning, predictive analytics, computer vision, and Python-based development. My projects combine model development and evaluation with backend APIs and web interfaces to turn technical ideas into usable applications.
+I’m a Software Engineering graduate from Zhengzhou University focused on building applied machine learning and computer vision projects in Python. My work spans data preparation, model training and evaluation, prediction explainability, and integrating inference workflows with APIs and web interfaces. I also develop full-stack applications that support practical business and operational workflows.
 
-[![GitHub](https://img.shields.io/badge/GitHub-XxCPH4xX-181717?style=flat-square&logo=github)](https://github.com/XxCPH4xX)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
-[![Machine Learning](https://img.shields.io/badge/Machine_Learning-102230?style=flat-square&logo=scikitlearn&logoColor=white)](https://scikit-learn.org/)
-[![AI](https://img.shields.io/badge/Artificial_Intelligence-412991?style=flat-square)](https://en.wikipedia.org/wiki/Artificial_intelligence)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-1F425F?style=flat-square)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-2D6A73?style=flat-square)
 
----
-
-## About Me
-
-I am a Software Engineering graduate from Zhengzhou University, interested in developing machine learning solutions and engineering complete applications around them.
-
-My primary interests include:
-
-- **Machine Learning:** predictive modeling, classification, model evaluation, and explainability.
-- **Artificial Intelligence:** developing practical AI-powered applications and exploring data-driven approaches to real-world problems.
-- **Computer Vision:** image classification, object and hand-sign detection, and face-recognition-based systems.
-- **AI Engineering:** integrating models into backend services, APIs, and web applications.
-- **Software Engineering:** building maintainable applications with clear architecture, useful functionality, and reliable workflows.
-
-I enjoy working across the development lifecycle, from data preparation and experimentation to API integration and application development.
-
-## Featured Projects
-
-My projects below are ordered by engineering scope, technical depth, and relevance to my AI and software engineering interests.
-
-### 1. Predictive Maintenance AI Platform
-
-**Machine Learning · Predictive Analytics · Model Explainability**
-
-An end-to-end predictive maintenance platform focused on analyzing equipment data and estimating failure risk. The project combines machine learning workflows with an API backend and a web interface for exploring predictions and analysis results.
-
-**Key features**
-
-- XGBoost-based equipment failure-risk prediction.
-- SHAP-based explanations to help interpret model predictions.
-- Jupyter notebook workflows for machine learning experimentation.
-- FastAPI backend for model-powered application functionality.
-- Batch CSV analysis and simulated telemetry workflows.
-- Web interface for presenting analysis results.
-
-**Technology stack**
-
-`Python` `XGBoost` `SHAP` `Pandas` `Jupyter` `FastAPI` `Next.js` `TypeScript`
-
-[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/XxCPH4xX/Predictive-Maintenance-AI-Platform)
+**Core focus:** Predictive modeling · Deep learning · Computer vision · Explainable AI · ML-backed APIs and dashboards
 
 ---
 
-### 2. Plant Disease Detection Using Deep Learning
+## Featured ML & Computer Vision Projects
 
-**Deep Learning · Image Classification · Computer Vision**
+These projects demonstrate different parts of the applied AI workflow, from dataset preparation and model evaluation to visual explanations and application integration.
 
-A computer vision project focused on applying deep learning techniques to plant disease identification from images.
+### 1. [Predictive Maintenance AI Platform](https://github.com/XxCPH4xX/Predictive-Maintenance-AI-Platform)
 
-**Technical focus**
+An end-to-end predictive maintenance workspace built around the UCI AI4I 2020 synthetic dataset. It combines equipment failure-risk prediction, model evaluation, explainability, and an interactive dashboard.
 
-- Image-based plant disease classification.
-- Deep learning model development.
-- Image data preparation and preprocessing.
-- Model training and evaluation workflows.
+**Technical highlights**
+- Compares Logistic Regression and Random Forest baselines with XGBoost, using separate training, validation, and held-out test partitions.
+- Implements SHAP-based global and individual prediction explanations.
+- Integrates a FastAPI backend with a Next.js and TypeScript dashboard for single predictions, batch CSV analysis, simulated telemetry, what-if scenarios, and prediction history.
+- Includes Jupyter notebooks for exploratory analysis, preprocessing, model selection, evaluation, and reproducible experimentation.
 
-**Technology stack**
+**Reported held-out test results:** Precision 40.56% · Recall 85.29% · ROC-AUC 0.9806 · Average precision 0.7706
 
-`Python` `Deep Learning` `Computer Vision`
+These results apply to the project's dataset, not to real-world industrial equipment. The selected operating threshold produces false alarms, and the model has not been validated as an industrial failure-warning system.
 
-[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/XxCPH4xX/plant-disease-detection-using-deep-learning)
+**Technologies:** Python, Pandas, scikit-learn, XGBoost, SHAP, Jupyter, FastAPI, Next.js, TypeScript
 
----
+[Repository](https://github.com/XxCPH4xX/Predictive-Maintenance-AI-Platform) · [Model card](https://github.com/XxCPH4xX/Predictive-Maintenance-AI-Platform/blob/main/reports/model_card.md)
 
-### 3. Smart Attendance System Using Face Recognition
+### 2. [Chest X-ray Pneumonia Classification](https://github.com/XxCPH4xX/Chest-X-ray-Pneumonia-Classification)
 
-**Computer Vision · Facial Recognition · Automation**
+An educational and research project that classifies chest X-ray images into NORMAL and PNEUMONIA categories using a ResNet18-based deep learning workflow.
 
-A face-recognition-based attendance project designed to explore automated identification and attendance-recording workflows.
+**Technical highlights**
+- Uses PyTorch and Torchvision to train, evaluate, and export an image classification model.
+- Implements Grad-CAM visualizations to inspect regions influencing model predictions.
+- Connects model inference to a FastAPI backend and a Next.js dashboard.
+- Organizes experimentation into notebooks covering dataset checks, preprocessing, model development, evaluation, and inference.
 
-**Technical focus**
+**Reported held-out test results:** Accuracy 87.66% · Sensitivity 96.15% · Specificity 73.50% · ROC-AUC 94.49%
 
-- Face-recognition-based identification.
-- Image processing and computer vision.
-- Attendance workflow automation.
-- Integration of recognition functionality into an application.
+These are dataset-level results, not evidence of clinical effectiveness. The repository documents limitations involving potential patient overlap and domain shift. The model is not clinically validated, and its predictions must not be used for patient care.
 
-**Technology stack**
+**Technologies:** Python, PyTorch, Torchvision, Grad-CAM, Jupyter, FastAPI, Next.js, TypeScript
 
-`Python` `Computer Vision` `Face Recognition`
+[Repository](https://github.com/XxCPH4xX/Chest-X-ray-Pneumonia-Classification)
 
-[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/XxCPH4xX/smart-attendance-system-using-face-recognition)
+### 3. [Plant Disease Detection Using Deep Learning](https://github.com/XxCPH4xX/plant-disease-detection-using-deep-learning)
 
----
+A leaf-image classification project that identifies 38 disease and healthy-leaf categories across 14 plant species through a convolutional neural network.
 
-### 4. HandSign Detection
+**Technical highlights**
+- Implements a CNN with 10 convolutional layers using TensorFlow/Keras.
+- Processes RGB leaf images and produces predictions across the supported plant classes.
+- Includes training and evaluation notebooks, training-history visualizations, a confusion matrix, and a classification report.
+- Provides a Streamlit interface for uploading leaf images and viewing predictions.
 
-**Computer Vision · Hand-Sign Detection**
+The project documents evaluation workflows and visualizations; no performance figure is included here because a representative, verified test metric has not been established for this profile.
 
-A computer vision project exploring the detection of hand signs through image-based recognition techniques.
+**Technologies:** Python, TensorFlow, Keras, NumPy, scikit-learn, Matplotlib, Streamlit
 
-**Technical focus**
+[Repository](https://github.com/XxCPH4xX/plant-disease-detection-using-deep-learning)
 
-- Hand-sign detection.
-- Visual data processing.
-- Computer vision experimentation.
+### 4. [HandSign Detection](https://github.com/XxCPH4xX/HandSign-Detection)
 
-**Technology stack**
+A real-time webcam-based hand-sign recognition project covering six ASL letter classes: **I, L, O, V, E, and U**.
 
-`Python` `Computer Vision`
+**Technical highlights**
+- Detects hands from live webcam input and classifies supported hand signs.
+- Uses hand-region cropping, resizing, and normalization before inference.
+- Includes a data-collection workflow for capturing custom training images.
+- Combines MediaPipe-based hand processing with a TensorFlow/Keras classification model.
 
-[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/XxCPH4xX/HandSign-Detection)
+The implementation recognizes the listed letters; it does not represent a complete sign-language translation system.
 
----
+**Technologies:** Python, OpenCV, MediaPipe, cvzone, TensorFlow/Keras, NumPy
 
-### 5. PharmacyPOS
+[Repository](https://github.com/XxCPH4xX/HandSign-Detection)
 
-**Full-Stack Engineering · Business Software · Inventory Management**
+### 5. [Smart Attendance System Using Face Recognition](https://github.com/XxCPH4xX/smart-attendance-system-using-face-recognition)
 
-A pharmacy management and point-of-sale platform designed to support pharmacy operations through a web-based interface.
+A webcam-based attendance prototype that identifies registered faces and records attendance with timestamps.
 
-**Key features**
+**Technical highlights**
+- Processes live webcam frames using OpenCV.
+- Generates and compares face encodings using the `face_recognition` library.
+- Distinguishes recognized faces from unknown individuals.
+- Records attendance in CSV format with timestamps.
 
-- Point-of-sale and sales processing workflows.
-- Medicine inventory management.
-- Batch and expiry-date tracking.
-- Billing, invoicing, and VAT-related workflows.
-- Medicine import and inventory operations.
-- Offline cash-sale recovery support.
+**Technologies:** Python, OpenCV, face_recognition, dlib, NumPy
 
-**Technology stack**
-
-`Python` `Django` `Next.js` `TypeScript` `PostgreSQL`
-
-[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/XxCPH4xX/PharmacyPOS)
-
----
-
-### 6. Restaurant POS
-
-**Full-Stack Development · Point of Sale · Business Operations**
-
-A restaurant point-of-sale application covering order handling and supporting operational workflows.
-
-**Key features**
-
-- Order and table management.
-- Billing and payment workflows.
-- Inventory management.
-- Customer and supplier records.
-- Expense tracking.
-
-**Technology stack**
-
-`TypeScript` `Next.js` `Django REST Framework`
-
-[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/XxCPH4xX/POS)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-0A7B5B?style=for-the-badge&logo=vercel&logoColor=white)](https://pos-v327.vercel.app/)
+[Repository](https://github.com/XxCPH4xX/smart-attendance-system-using-face-recognition)
 
 ---
 
-## Other Projects
+## Other Software Engineering Projects
 
-| **Project** | **Description** | **Repository** |
+Alongside ML/AI experimentation, I build web applications that combine backend services, databases, frontend interfaces, and domain-specific business logic.
+
+| Project | Overview | Repository |
 |---|---|---|
-| Plant Disease Detection | Deep learning project focused on identifying plant diseases from images. | [View project](https://github.com/XxCPH4xX/plant-disease-detection-using-deep-learning) |
-| Face Recognition Attendance | Attendance management system using face-recognition techniques. | [View project](https://github.com/XxCPH4xX/smart-attendance-system-using-face-recognition) |
-| HandSign Detection | Computer vision project focused on hand-sign detection. | [View project](https://github.com/XxCPH4xX/HandSign-Detection) |
-| Admission Exam Platform | Web application for managing an online admission examination workflow. | [View project](https://github.com/XxCPH4xX/admission-exam-platform) |
-| Python-Mastery | Structured repository for Python practice, programming fundamentals, and continued learning. | [View project](https://github.com/XxCPH4xX/Python-Mastery) |
+| **PharmacyPOS** | Pharmacy operations and POS development pilot covering medicine catalogues, barcode/SKU lookup, batch and expiry tracking, FEFO inventory handling, box/strip/pack conversion, role-based access, and operational records. Built with Next.js, TypeScript, Django REST Framework, and PostgreSQL. | [View repository](https://github.com/XxCPH4xX/PharmacyPOS) |
+| **Restaurant POS (EzPOS)** | Restaurant management and point-of-sale application covering dine-in, takeaway and delivery orders, table management, kitchen tickets, stock tracking, reservations, payments, and reporting. Uses Next.js, React, TypeScript, Django REST Framework, and PostgreSQL. | [View repository](https://github.com/XxCPH4xX/POS) |
+| **Customer Feedback Dashboard** | Feedback collection and ratings dashboard with PostgreSQL persistence, Chart.js visualizations, and keyword-based sentiment classification. Uses an Express backend and JavaScript frontend. | [View repository](https://github.com/XxCPH4xX/Customer-Feedback-Dashboard) |
 
-[**Browse all repositories →**](https://github.com/XxCPH4xX?tab=repositories)
+---
+
 ## Technical Skills
 
-### AI & Machine Learning
+The following technologies are drawn from my existing profile and project documentation. Their inclusion reflects use across projects, not an assertion of equal proficiency in every tool.
 
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=flat-square)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+### Machine Learning & AI
 
-Areas of interest: predictive modeling, classification, model evaluation, explainable AI, deep learning, and computer vision.
+`scikit-learn` · `XGBoost` · `SHAP` · Predictive modeling · Classification · Model evaluation · Explainable AI
+
+### Deep Learning & Computer Vision
+
+`PyTorch` · `Torchvision` · `TensorFlow` · `Keras` · `OpenCV` · `MediaPipe` · `cvzone` · `Grad-CAM`
+
+### Data Analysis & Experimentation
+
+`NumPy` · `Pandas` · `Jupyter Notebook` · `Matplotlib` · `Seaborn` · Exploratory data analysis · Data preprocessing · Train/validation/test evaluation
 
 ### Programming Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+`Python` · `TypeScript` · `JavaScript` · `SQL`
 
-### Backend & API Development
+### Backend Development & APIs
 
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+`FastAPI` · `Django` · `Django REST Framework` · `Express`
 
 ### Frontend Development
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+`Next.js` · `React` · `Tailwind CSS` · `Streamlit`
 
-### Tools & Development Environment
+### Databases, Tools & Development Environments
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-## GitHub Statistics
-
-<p align="center">
-  <a href="https://github.com/XxCPH4xX">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=XxCPH4xX&show_icons=true&rank_icon=github&hide_border=true&theme=transparent" alt="Fahim's GitHub statistics" />
-  </a>
-  <a href="https://github.com/XxCPH4xX">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XxCPH4xX&layout=compact&langs_count=8&hide_border=true&theme=transparent" alt="Most used programming languages" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/XxCPH4xX">
-    <img src="https://img.shields.io/badge/GitHub-XxCPH4xX-181717?style=for-the-badge&logo=github&logoColor=white" alt="Visit my GitHub profile" />
-  </a>
-</p>
+`PostgreSQL` · `SQLite` · `Git` · `GitHub` · `Linux` · `VS Code`
 
 ---
 
-<p align="center">
-  <i>Focused on machine learning, practical AI systems, and engineering software that solves real problems.</i>
-</p>
+## Engineering Approach
+
+Across my projects, I focus on connecting implementation details with measurable outcomes and usable software:
+
+- **Data and evaluation:** Inspecting datasets, preparing model inputs, separating training and evaluation stages, and reporting measured results with their limitations.
+- **Model interpretation:** Using techniques such as SHAP and Grad-CAM to examine model behavior rather than presenting predictions without context.
+- **Application integration:** Connecting Python-based inference workflows to APIs, dashboards, and practical user interfaces.
+- **Software development:** Applying backend, frontend, and database technologies to build applications around clearly defined workflows.
+
+---
+
+## Explore More
+
+For source code, implementation details, setup instructions, notebooks, and project-specific documentation, visit the repositories directly.
+
+**[Browse all repositories on GitHub →](https://github.com/XxCPH4xX?tab=repositories)**
+
+**[GitHub Profile](https://github.com/XxCPH4xX)**
