@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Fahim Shahrier</h1>
-  <p><strong>Machine Learning &amp; AI Engineer · Computer Vision · Python</strong></p>
+  <p><strong>Machine Learning &amp; AI Engineer</strong></p>
   <p>Building practical machine learning systems and applications that connect model development, evaluation, and usable software.</p>
 
   <p>
