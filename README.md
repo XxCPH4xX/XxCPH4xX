@@ -1,172 +1,231 @@
 # Fahim Shahrier
 
-<p align="center">
-  <a href="https://github.com/XxCPH4xX">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=650&lines=Software+Engineering+Graduate;Building+Practical+Software+Solutions;Exploring+Applied+AI+%26+Machine+Learning;Turning+Ideas+Into+Working+Projects" alt="Typing introduction" />
-  </a>
-</p>
+### AI / Machine Learning Engineer | Python Developer | Full-Stack Engineer
 
-<p align="center">
-  <a href="https://github.com/XxCPH4xX?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore-My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" />
-  </a>
-  <a href="https://github.com/XxCPH4xX/PharmacyPOS">
-    <img src="https://img.shields.io/badge/Featured-PharmacyPOS-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Featured project" />
-  </a>
-</p>
+I build AI-driven applications and practical software systems, with a focus on machine learning, predictive analytics, computer vision, and Python-based development. My projects combine model development and evaluation with backend APIs and web interfaces to turn technical ideas into usable applications.
+
+[![GitHub](https://img.shields.io/badge/GitHub-XxCPH4xX-181717?style=flat-square&logo=github)](https://github.com/XxCPH4xX)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
+[![Machine Learning](https://img.shields.io/badge/Machine_Learning-102230?style=flat-square&logo=scikitlearn&logoColor=white)](https://scikit-learn.org/)
+[![AI](https://img.shields.io/badge/Artificial_Intelligence-412991?style=flat-square)](https://en.wikipedia.org/wiki/Artificial_intelligence)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+
+---
 
 ## About Me
 
-I'm a Software Engineering graduate interested in building reliable software systems and applying machine learning to practical problems. My work spans full-stack web development, Python-based machine learning, computer vision, and application development.
+I am a Software Engineering graduate from Zhengzhou University, interested in developing machine learning solutions and engineering complete applications around them.
 
-I enjoy taking projects beyond the initial prototype—working on application architecture, user interfaces, APIs, data workflows, and the details that make software useful in real-world settings.
+My primary interests include:
 
-- **Education:** BSc in Software Engineering, Zhengzhou University
-- **Interests:** Software Engineering, AI/ML, Computer Vision, Full-Stack Development
-- **Currently exploring:** Predictive analytics, production-oriented ML workflows, and maintainable web applications
-- **Approach:** Build practical projects, understand the underlying systems, and improve through implementation.
+- **Machine Learning:** predictive modeling, classification, model evaluation, and explainability.
+- **Artificial Intelligence:** developing practical AI-powered applications and exploring data-driven approaches to real-world problems.
+- **Computer Vision:** image classification, object and hand-sign detection, and face-recognition-based systems.
+- **AI Engineering:** integrating models into backend services, APIs, and web applications.
+- **Software Engineering:** building maintainable applications with clear architecture, useful functionality, and reliable workflows.
+
+I enjoy working across the development lifecycle, from data preparation and experimentation to API integration and application development.
 
 ## Featured Projects
 
-### 1. PharmacyPOS
+My projects below are ordered by engineering scope, technical depth, and relevance to my AI and software engineering interests.
 
-A pharmacy management and point-of-sale platform designed around everyday pharmacy operations.
+### 1. Predictive Maintenance AI Platform
 
-**Key areas**
-- Medicine catalog and inventory management
-- Batch and expiry tracking
-- Sales and checkout workflows
-- VAT and invoicing
-- Offline cash-sale recovery
+**Machine Learning · Predictive Analytics · Model Explainability**
 
-**Technologies:** Python · Django · Next.js · TypeScript · PostgreSQL
+An end-to-end predictive maintenance platform focused on analyzing equipment data and estimating failure risk. The project combines machine learning workflows with an API backend and a web interface for exploring predictions and analysis results.
 
-[![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/XxCPH4xX/PharmacyPOS)
+**Key features**
 
----
+- XGBoost-based equipment failure-risk prediction.
+- SHAP-based explanations to help interpret model predictions.
+- Jupyter notebook workflows for machine learning experimentation.
+- FastAPI backend for model-powered application functionality.
+- Batch CSV analysis and simulated telemetry workflows.
+- Web interface for presenting analysis results.
 
-### 2. Predictive Maintenance AI Platform
+**Technology stack**
 
-An end-to-end predictive maintenance project that combines machine learning workflows with an application for exploring equipment failure risk.
+`Python` `XGBoost` `SHAP` `Pandas` `Jupyter` `FastAPI` `Next.js` `TypeScript`
 
-**Key areas**
-- XGBoost-based failure-risk prediction
-- SHAP-based model explanations
-- FastAPI backend
-- Next.js web interface
-- Batch CSV analysis and simulated telemetry
-
-**Technologies:** Python · XGBoost · SHAP · FastAPI · Next.js · TypeScript
-
-[![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/XxCPH4xX/Predictive-Maintenance-AI-Platform)
+[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/XxCPH4xX/Predictive-Maintenance-AI-Platform)
 
 ---
 
-### 3. Restaurant POS
+### 2. Plant Disease Detection Using Deep Learning
 
-A full-stack point-of-sale system for managing restaurant operations through a centralized interface.
+**Deep Learning · Image Classification · Computer Vision**
 
-**Key areas**
-- Order and table management
-- Billing and payment workflows
-- Inventory and supplier management
-- Customer and expense tracking
-- Real-time operational workflows
+A computer vision project focused on applying deep learning techniques to plant disease identification from images.
 
-**Technologies:** Django REST Framework · Next.js · TypeScript · Redis
+**Technical focus**
 
-[![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/XxCPH4xX/POS)
+- Image-based plant disease classification.
+- Deep learning model development.
+- Image data preparation and preprocessing.
+- Model training and evaluation workflows.
+
+**Technology stack**
+
+`Python` `Deep Learning` `Computer Vision`
+
+[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/XxCPH4xX/plant-disease-detection-using-deep-learning)
+
+---
+
+### 3. Smart Attendance System Using Face Recognition
+
+**Computer Vision · Facial Recognition · Automation**
+
+A face-recognition-based attendance project designed to explore automated identification and attendance-recording workflows.
+
+**Technical focus**
+
+- Face-recognition-based identification.
+- Image processing and computer vision.
+- Attendance workflow automation.
+- Integration of recognition functionality into an application.
+
+**Technology stack**
+
+`Python` `Computer Vision` `Face Recognition`
+
+[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/XxCPH4xX/smart-attendance-system-using-face-recognition)
+
+---
+
+### 4. HandSign Detection
+
+**Computer Vision · Hand-Sign Detection**
+
+A computer vision project exploring the detection of hand signs through image-based recognition techniques.
+
+**Technical focus**
+
+- Hand-sign detection.
+- Visual data processing.
+- Computer vision experimentation.
+
+**Technology stack**
+
+`Python` `Computer Vision`
+
+[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/XxCPH4xX/HandSign-Detection)
+
+---
+
+### 5. PharmacyPOS
+
+**Full-Stack Engineering · Business Software · Inventory Management**
+
+A pharmacy management and point-of-sale platform designed to support pharmacy operations through a web-based interface.
+
+**Key features**
+
+- Point-of-sale and sales processing workflows.
+- Medicine inventory management.
+- Batch and expiry-date tracking.
+- Billing, invoicing, and VAT-related workflows.
+- Medicine import and inventory operations.
+- Offline cash-sale recovery support.
+
+**Technology stack**
+
+`Python` `Django` `Next.js` `TypeScript` `PostgreSQL`
+
+[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/XxCPH4xX/PharmacyPOS)
+
+---
+
+### 6. Restaurant POS
+
+**Full-Stack Development · Point of Sale · Business Operations**
+
+A restaurant point-of-sale application covering order handling and supporting operational workflows.
+
+**Key features**
+
+- Order and table management.
+- Billing and payment workflows.
+- Inventory management.
+- Customer and supplier records.
+- Expense tracking.
+
+**Technology stack**
+
+`TypeScript` `Next.js` `Django REST Framework`
+
+[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/XxCPH4xX/POS)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-0A7B5B?style=for-the-badge&logo=vercel&logoColor=white)](https://pos-v327.vercel.app/)
+
+---
 
 ## Other Projects
 
-| Project | Description | Repository |
+| Project | Focus | Repository |
 |---|---|---|
-| Plant Disease Detection | Deep learning project focused on identifying plant diseases from images. | [View project](https://github.com/XxCPH4xX/plant-disease-detection-using-deep-learning) |
-| Face Recognition Attendance | Attendance management using face-recognition techniques. | [View project](https://github.com/XxCPH4xX/smart-attendance-system-using-face-recognition) |
-| HandSign Detection | Computer vision project for hand-sign detection. | [View project](https://github.com/XxCPH4xX/HandSign-Detection) |
-| Admission Exam Platform | An application for an online admission examination workflow. | [View project](https://github.com/XxCPH4xX/admission-exam-platform) |
-| Python-Mastery | A structured repository for Python practice and learning. | [View project](https://github.com/XxCPH4xX/Python-Mastery) |
-
-[**Browse all repositories →**](https://github.com/XxCPH4xX?tab=repositories)
+| Admission Exam Platform | Web application development | [View Project](https://github.com/XxCPH4xX/admission-exam-platform) |
+| Python Mastery | Python learning and practice | [View Project](https://github.com/XxCPH4xX/Python-Mastery) |
 
 ## Technical Skills
 
+### AI & Machine Learning
+
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=flat-square)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+Areas of interest: predictive modeling, classification, model evaluation, explainable AI, deep learning, and computer vision.
+
 ### Programming Languages
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
-### Web Development
+### Backend & API Development
 
-<p>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-</p>
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
-### AI, Machine Learning & Computer Vision
+### Frontend Development
 
-<p>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
-  <img src="https://img.shields.io/badge/XGBoost-EC6B23?style=for-the-badge" alt="XGBoost" />
-</p>
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-### Databases & Development Tools
+### Tools & Development Environment
 
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
-</p>
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ## GitHub Statistics
 
 <p align="center">
   <a href="https://github.com/XxCPH4xX">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=XxCPH4xX&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="Fahim's GitHub statistics" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=XxCPH4xX&show_icons=true&rank_icon=github&hide_border=true&theme=transparent" alt="Fahim's GitHub statistics" />
   </a>
   <a href="https://github.com/XxCPH4xX">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XxCPH4xX&layout=compact&hide_border=true&langs_count=8&theme=transparent" alt="Most used programming languages" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XxCPH4xX&layout=compact&langs_count=8&hide_border=true&theme=transparent" alt="Most used programming languages" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/XxCPH4xX">
-    <img src="https://img.shields.io/badge/GitHub-XxCPH4xX-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
+    <img src="https://img.shields.io/badge/GitHub-XxCPH4xX-181717?style=for-the-badge&logo=github&logoColor=white" alt="Visit my GitHub profile" />
   </a>
 </p>
-
-
-## Connect
-
-<p>
-  <a href="https://github.com/XxCPH4xX">
-    <img src="https://img.shields.io/badge/GitHub-XxCPH4xX-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
-  </a>
-  <a href="https://github.com/XxCPH4xX?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-Explore-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="GitHub repositories" />
-  </a>
-</p>
-
-I'm interested in building useful software, exploring applied machine learning, and improving the engineering behind the products I create.
 
 ---
 
 <p align="center">
-  <sub>Building, learning, and improving one project at a time.</sub>
+  <i>Focused on machine learning, practical AI systems, and engineering software that solves real problems.</i>
 </p>
