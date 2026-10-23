@@ -69,13 +69,21 @@ A webcam-based attendance application that identifies registered faces and recor
 
 <img height="20" src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"> <img height="20" src="https://img.shields.io/badge/OPENCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"> <img height="20" src="https://img.shields.io/badge/FACE_RECOGNITION-4169E1?style=for-the-badge&logo=python&logoColor=white" alt="Face Recognition"> <img height="20" src="https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
 
+---
+
 ## Other Software Engineering Projects
 
-| Project | Description | Repository |
-| --- | --- | --- |
-| **PharmacyPOS** | Pharmacy ERP/POS workflows for medicine inventory, batches and expiry tracking, checkout, invoicing, and branch operations. | [View repository](https://github.com/XxCPH4xX/PharmacyPOS) |
-| **Restaurant POS (EzPOS)** | Restaurant operations covering orders, table service, inventory, payments, reservations, and reporting. | [View repository](https://github.com/XxCPH4xX/POS) |
-| **Customer Feedback Dashboard** | Dashboard project for reviewing customer feedback; see the repository for its documented functionality and implementation. | [View repository](https://github.com/XxCPH4xX/Customer-Feedback-Dashboard) |
+These projects demonstrate complementary experience in application architecture, backend development, database-backed workflows, and user interface engineering.
+
+| **Project** | **Description** | **Repository** |
+|---|---|---|
+| **PharmacyPOS (PharmaCore ERP)** | Pharmacy operations platform covering point of sale, inventory, batch and expiry tracking, role-based access, branch workflows, and reporting. | [View project](https://github.com/XxCPH4xX/PharmacyPOS) |
+| **Restaurant POS (EzPOS)** | Restaurant management and point-of-sale application covering orders, table service, menu management, stock tracking, payments, and reporting. | [View project](https://github.com/XxCPH4xX/POS) |
+| **Customer Feedback Dashboard** | Feedback collection and rating dashboard with PostgreSQL persistence, Chart.js visualizations, and keyword-based sentiment classification. | [View project](https://github.com/XxCPH4xX/Customer-Feedback-Dashboard) |
+
+[**Browse all repositories →**](https://github.com/XxCPH4xX?tab=repositories)
+
+---
 
 ## Technical Stack
 
